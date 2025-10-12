@@ -3,7 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navraj-mann-09a28a343/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:navrajmann138@gmail.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A192F?style=flat&logo=vercel&logoColor=white)](https://navrajmann.vercel.app)
 
 
 
